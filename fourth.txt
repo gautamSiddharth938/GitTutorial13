@@ -1,0 +1,3 @@
+This is the fourth file to test the git commands.
+And also this is the file which has to be the tutorial example of my learning journey.
+this is th text I'm writing to see how to skip staging area and do direct commit

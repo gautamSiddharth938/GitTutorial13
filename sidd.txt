@@ -1,0 +1,2 @@
+this is version 1 of my text file and my name is siddharth gautam and i'm working on my projects and learning git and github.
+And also this is one of the best lectures i'm taking right now.
